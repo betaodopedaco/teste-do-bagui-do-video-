@@ -1,0 +1,5 @@
+# No terminal:
+pip install -r requirements.txt
+python app.py
+
+# Acessar: http://localhost:5000
